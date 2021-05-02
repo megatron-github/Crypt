@@ -1,5 +1,4 @@
 # Crypt
-An introduction to Prolog
 
 A Cryptarithmetic puzzle presents an equation involving nonnegative integers for which letters have been substituted for the digits.
 
